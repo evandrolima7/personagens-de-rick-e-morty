@@ -9,10 +9,10 @@
    5. Páginas
       5.1. index.html
       5.2. personagem.html
-   6. Estilos
-   7. Recursos de Terceiros
-   8. Arquivos do Projeto
-   9. Autores
+   7. Estilos
+   8. Recursos de Terceiros
+   9. Arquivos do Projeto
+   10. Autores
 
 ## 1. Visão Geral
 
